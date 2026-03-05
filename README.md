@@ -1,0 +1,1 @@
+A JavaScript/Phaser 3 starter for a Super Mario–style 2D platformer with features including basic platformer mechanics, simple enemy with patrol behavior, one power-up collectible, level layout using static platforms, pixel-art-ready structure, and easy-to-run dev server. Includes installation and asset replacement instructions.

@@ -1,0 +1,24 @@
+{
+  "name": "mini-mario",
+  "version": "0.1.0",
+  "description": "A Phaser 3 platformer starter inspired by Super Mario",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "npx live-server --port=8080 --open=./index.html",
+    "build": "echo \"No build step - this is a simple Phaser starter\""
+  },
+  "keywords": [
+    "phaser",
+    "platformer",
+    "game",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
